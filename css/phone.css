@@ -1,0 +1,23 @@
+/*navigation*/
+#navbar{
+    flex-direction: column;
+}
+#home{
+
+}
+#services{
+    flex-direction: column;
+}
+#services box{
+
+}
+    
+#clients{
+    overflow: hidden;
+}
+#contacts{
+
+}
+footer{
+
+}
